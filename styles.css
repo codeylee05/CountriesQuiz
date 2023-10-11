@@ -153,3 +153,17 @@ body {
     }
 
 }
+
+.control-to-feedback {
+    transform: translateY(450px);
+}
+
+.feedback-page-body {
+    display: flex;
+    flex-direction: row;
+}
+
+.feedback-closing-message {
+    font-size: 28px;
+    transform: translate(200px);
+}
